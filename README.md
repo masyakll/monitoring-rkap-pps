@@ -1,4 +1,4 @@
-# Monitoring RKAP 2026 — Departemen PPS
+# Monitoring RKAP 2026 - Departemen PPS
 
 Aplikasi web internal berbasis SvelteKit untuk menampilkan progres pekerjaan RKAP 2026 dan data penyerapan/GR/IR. Paket ini dijalankan dengan sumber data demo lokal. Halaman Integrasi Google Sheets hanya placeholder; file Google Sheets belum terhubung. Koneksi SAP/IPRO langsung belum diaktifkan.
 
