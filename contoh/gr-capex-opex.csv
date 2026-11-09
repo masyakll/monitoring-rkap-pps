@@ -1,0 +1,18 @@
+No,Nama Pekerjaan,Commitment Item,Tipe,Mata Uang,GR Jan,GR Feb,GR Mar,GR Apr,GR Mei,GR Jun,GR Jul,GR Agu,GR Sep,GR Okt,GR Nov,GR Des,Total GR,Keterangan
+1,Upgrading CPU AVR Unit 1 SGP,1222110006AAT,CAPEX,IDR,15000000,,,,,,,,,,,15000000,30000000,Selesai
+2,Renewal of Fire Alarm system at TNP,1222110008BBU,CAPEX,IDR,,,,,,,,,,,,,0,Belum ada GR
+3,Renewal Water level system at RGD SGD TND and Tailrace SGP,1222110010CCW,CAPEX,IDR,,,,,,,,,,,,,0,Menunggu material
+4,Renewal Drencher System XLPE Cable Service Shaft SGP,1222110012DDX,CAPEX,IDR,,,,,65000000,75000000,85000000,25000000,,,,,,250000000,Selesai dengan nilai kontrak lebih rendah
+5,Renewal Fire Extinguisher NN-100 MTR SGPU,1222110014EEY,CAPEX,IDR,65200000,,,,,,,,,,,65200000,130400000,Pekerjaan selesai tepat waktu
+6,Installation Power Meter SGP Unit 1 2,1222110016FFZ,CAPEX,IDR,,,,,,,,,,,,,0,Dibatalkan
+7,Renewal of UPS System at SGPA,1222110018GGA,CAPEX,IDR,,,,,,,,,196020000,,,,,196020000,Selesai
+8,Service SCADA,1223100020HHB,OPEX,IDR,,,,,,,,,,13860000,,,13860000,Baru mulai Oktober
+9,Inspection VHF Radio Communication Motorola,1223100022IIC,OPEX,IDR,,,,,27475000,,,,,,,,27475000,50% selesai
+10,Inspection Repair Network Paritohan Camp,1223100024JJD,OPEX,IDR,,,,,,,,,,,,,0,Belum ada GR
+11,Repair Backup Cable FO ADSS TL 275 kV,1223100026KKE,OPEX,IDR,,,,,,,,,,,,,0,Retender
+12,Calibration Protection Relay,1223100028LLF,OPEX,IDR,,,,,,,,,,,,,0,Pengadaan
+13,Pekerjaan GR tanpa pasangan di pekerjaan,,CAPEX,IDR,5000000,5000000,5000000,5000000,5000000,5000000,5000000,5000000,,,,0,40000000,Tidak ada kode CI
+14,Renewal UPS System SGPA – EJAAN BEDA,1222110018GGA,CAPEX,IDR,0,0,0,0,0,0,0,0,196020000,0,0,0,196020000,Uji ejaan beda commitment item sama
+15,Pekerjaan Baris ke-45 di luar batas lama,,OPEX,IDR,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,1000000,,0,11000000,Uji: harus tetap dibaca meski baris 45+
+16,Renewal sistem monitoring getaran turbin,1222110099ZZZ,CAPEX,IDR,,,,,,,,,,,,,0,Tidak ada pekerjaan pasangan (uji tanpa pasangan)
+Total,,,,,,,,,,,,,,,,,,,,,,

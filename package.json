@@ -1,0 +1,37 @@
+{
+  "name": "monitoring-rkap-pps",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "vite dev --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "start": "node build/index.js",
+    "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "@sveltejs/adapter-node": "5.2.12",
+    "@sveltejs/kit": "2.22.2",
+    "bcryptjs": "3.0.2",
+    "dotenv": "16.5.0",
+    "exceljs": "4.4.0",
+    "svelte": "5.34.7"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "5.0.3",
+    "@types/node": "22.15.30",
+    "svelte-check": "4.2.1",
+    "typescript": "5.8.3",
+    "vite": "6.3.5",
+    "vitest": "3.2.4",
+    "autoprefixer": "10.4.21",
+    "postcss": "8.5.6",
+    "tailwindcss": "3.4.17"
+  }
+}
